@@ -1,17 +1,37 @@
-# 介绍
+#电子测量技术
+#一、注册账号
+1、前往github.com注册账号，登陆创建账号方式：
 
-这是笔记/教程的初始模板，可以从 fork 这个工程开始。
-内容可以自己创建、修改或删除。
+①Username:xxxx;
 
-写作提示见 https://github.com/su-da/notes/wiki
+②Email Address:xxxx；
 
-有几个不同风格的例子可以看看。
+③Password: xxxx;
 
-* [实验报告式](http://o.iee.io/tmp/report.pdf)
-* [博客式](http://o.iee.io/tmp/posts.pdf)
-* 其他课程同学的例子
-    * [助教](https://openmindclub.gitbooks.io/omooc-py/content/)
-    * [规范一些的例子](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
-    * [Gitbook 使用入门](http://gitbook-zh.wanqing.me/)/[仓库](https://github.com/wwq0327/gitbook-zh)
-    * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/)/[仓库](https://github.com/chengweiv5/gitbook)
-    * [GitBook文档（中文版）](http://chrisniael.gitbooks.io/gitbook-documentation/content/)/[仓库](https://github.com/chrisniael/gitbook-documentation)
+2、创建库
+
+①创建存储库（ Start a project ）
+
+②编辑库名
+
+③勾选nitialize this repository with a README 
+
+
+④确认（ create repository  ）
+
+
+3、与gitbook
+
+①登陆gitbook
+
+②创建新文本（Book & Manual），编辑文件名
+
+③进行文本编辑
+#二、安装/破解教学软件CVI
+1、打开文件（ NILWCVI2013SP2 ）
+
+2、点击setup.exe进行安装
+
+3、打开（ NI License Activator1.2 ），点击CVI打开目录下的项目，点击option 中的activator
+
+3、破解成功时正方形由灰变绿
